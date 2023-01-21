@@ -1,0 +1,58 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+/*Making the Head of the website*/
+.Header{
+  width: 100%;
+  text-align: center;
+  background: white;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.2)
+}
+/*Designing the Name of the website.*/
+.Header h1{
+  padding: 10px;
+  color: black;
+}
+.Header b{
+  color: darkcyan;
+  font-family: cursive;
+  font-size: 50px;
+}
+/*Title of the webpage or the topic.*/
+.main-title {
+  background: darkcyan;
+  font-size: 50px;
+  color: white;
+  padding: 10px;
+}
+.main-area{
+  padding: 20px;
+}
+.footer{
+  background: ghostwhite;
+}
+.content{
+  margin-top:50px;
+}
+.content h1{
+  background: darkcyan;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+.content p{
+  padding: 20px;
+  background: lightcyan;
+}
+.content b{
+  font-size: 30px;
+  color: darkcyan;
+  font-family: cursive;
+}
+.content a{
+  left: 100%;
+  text-decoration: none;
+  color: darkcyan;
+  font-weight: bold;
+}
